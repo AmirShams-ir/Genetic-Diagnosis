@@ -1,6 +1,10 @@
-🌐 **زبان‌ها**
+<p align="right">
 
-🇮🇷 فارسی • 🇺🇸 [English](README.md)
+🌐 **Languages**
+
+🇺🇸 [English](README.md) · 🇮🇷 [فارسی](README.fa.md)
+
+</p>
 # سامانه تشخیص بیماری‌ها و سندرم‌های ژنتیکی
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
