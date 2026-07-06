@@ -1,3 +1,6 @@
+🌐 **زبان‌ها**
+
+🇮🇷 فارسی • 🇺🇸 [English](README.md)
 # سامانه تشخیص بیماری‌ها و سندرم‌های ژنتیکی
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
