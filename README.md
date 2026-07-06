@@ -1,6 +1,7 @@
-🇬🇧 English: [README.md](README.md)
+### Languages
 
-🇮🇷 فارسی: [README.fa.md](README.fa.md)
+- 🇺🇸 English
+- 🇮🇷 [فارسی](README.fa.md)
 
 # Genetic Diagnosis System
 
