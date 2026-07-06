@@ -57,29 +57,17 @@ Future versions will be rewritten using modern technologies including:
 
 ---
 
-# Academic Background
+## Project Status
 
-This software was originally developed as part of academic research in
-Medical Genetics and was designed for use in:
+Legacy VB.NET Version
 
-- Genetic Clinics
-- Genetic Counseling Centers
-- Medical Genetics Laboratories
-- Universities
+Future versions will be developed using modern technologies.
 
 ---
 
-# License
+## Citation
 
-Apache License 2.0
-
-See the LICENSE file.
-
----
-
-# Citation
-
-If you use this software in research, please cite:
+If you use this project in academic work, please cite:
 
 Amir Shams
 
@@ -87,14 +75,22 @@ Department of Genetics
 
 Shahrekord University
 
-Iran
+---
+
+## License
+
+Apache License 2.0
+
+See LICENSE file.
 
 ---
 
-# Author
+## Author
 
 Amir Shams
 
-Medical Genetics Researcher
+Department of Genetics
+
+Shahrekord University
 
 Iran
