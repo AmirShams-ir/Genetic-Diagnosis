@@ -1,10 +1,7 @@
-<p align="right">
+🇺🇸 **English** → [README.md](README.md)
 
-🌐 **Languages**
+🇮🇷 **فارسی** → [README.fa.md](README.fa.md)
 
-🇺🇸 [English](README.md) · 🇮🇷 [فارسی](README.fa.md)
-
-</p>
 # سامانه تشخیص بیماری‌ها و سندرم‌های ژنتیکی
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
