@@ -1,4 +1,4 @@
-🇺🇸 **English** → [README.md](README.md)     🇮🇷 **فارسی** → [README.fa.md](README.fa.md)
+🇺🇸 **[English](README.md)** → 🇮🇷 **[فارسی](README.fa.md)**
 
 # سامانه تشخیص بیماری‌ها و سندرم‌های ژنتیکی
 
